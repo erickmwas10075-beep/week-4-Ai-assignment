@@ -9,6 +9,7 @@ structured data is an organized data e.g database and sreedsheets while unstruct
 schema is a sructured framework used to organize and store information
 * example
 a table of students in a school
+------------------------------------
 |stundent ID |name   |course       |
 |------------|-------|-------------|
 |112         |peter  |AI           |
