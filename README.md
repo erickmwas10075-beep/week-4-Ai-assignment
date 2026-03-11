@@ -7,7 +7,7 @@ data is raw material that  required to be proccesed to become useful information
 structured data is an organized data e.g database and sreedsheets while unstructured data is unorganized data e.g images and audio
 ## question 3
 schema is a sructured framework used to organize and store information
-* example
+### example
 a table of students in a school
 ------------------------------------
 |stundent ID |name   |course       |
