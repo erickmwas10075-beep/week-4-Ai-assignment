@@ -15,7 +15,7 @@ a table of students in a school
 |112         |peter  |AI           |
 |113         |erick  |programming  |
 ------------|-----------------------
--the schema shows how the data will be arranged before storing it in a database
--the schema defines the table and columns
+*the schema shows how the data will be arranged before storing it in a database
+*the schema defines the table and columns
 ## difference between a list and a dictionary
 -a list is an ordered, sequential collection accessed by integer indices,while a dictionary is a collection of unique key value pairs accessed by their associated keys
