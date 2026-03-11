@@ -14,7 +14,7 @@ a table of students in a school
 |------------|-------|-------------|
 |112         |peter  |AI           |
 |113         |erick  |programming  |
-|------------|---------------------|
+------------|-----------------------
 -the schema shows how the data will be arranged before storing it in a database
 -the schema defines the table and columns
 ## difference between a list and a dictionary
